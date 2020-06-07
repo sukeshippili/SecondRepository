@@ -1,3 +1,4 @@
 Changes made by developer2
 Changes Made by developer1
 understanding more about .git
+modified in master branch
